@@ -2,7 +2,7 @@
 import snscrape.modules.twitter as sntwitter
 import pandas as pd
 
-#Collecting 10 000 tweets for every day from March to August 
+#Collecting 10 000 tweets per day from March to August (indicator of a month should be chanegd manually in a field 'untill' as collecting all data for the entire period would take too much time and gives less chances for control of a process) 
 
 %%time
 1 + 1
